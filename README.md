@@ -9,4 +9,4 @@ Instructions:
 
 ---
 
-(c) 2019 Ian Hellström
+&copy; 2019–2021 Ian Hellström

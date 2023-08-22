@@ -1,5 +1,4 @@
-# Minimal sbt/Scala set-up for REPL experimentation
-For more details, please visit [Databaseline](https://databaseline.bitbucket.io/differences-in-conversions-of-java-numbers-in-scala/).
+For more details, please visit [ianhellstrom.org](https://ianhellstrom.org/differences-in-conversions-of-java-numbers-in-scala/).
 
 Instructions:
 
@@ -9,4 +8,4 @@ Instructions:
 
 ---
 
-&copy; 2019–2021 Ian Hellström
+&copy; 2019–2023 Ian Hellström
